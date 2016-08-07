@@ -49,7 +49,6 @@
 
 打算合著者这个网站与各种专业的Dynamo用户和开发人员,以确保内容是多产的,有用的和实际的。
 
-[中文原文链接](http://deattor.com/?p=12)
 
 [英文原文链接](https://dynamonodes.com/2015/12/25/what-is-this-site/)
 
@@ -119,8 +118,6 @@
 这是一个分享转发他们的培训或演示视频,与Dynamo或DynamoBIM一般。视频分类。与VideoSharing标签。开始与视频:文章标题
 
  
-
-[中文原文链接](http://deattor.com/?p=18)
 
 [英文原文链接](https://dynamonodes.com/2016/01/10/types-of-posts-on-dynamoworks/)
 
