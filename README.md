@@ -31,12 +31,14 @@ Dynamo Nodes on Dropbox
 这是如何符合现有的Dynamo在线社区?是这样的:
 
 * **http://dynamobim.org/ 主要的网站**
-http://dynamobim.org/download/ 下载网站
-http://dynamopackages.com/ 浏览和下载包
-http://dynamobim.org/forums/forum/dyn/ 论坛
-http://dynamoprimer.com/ 通用Dynamo学习
-博客、github和个人网站——包装细节和更新
-http://deattor.com/ 如何使用特定的节点
+* **http://dynamobim.org/download/ 下载网站**
+* **http://dynamopackages.com/ 浏览和下载包**
+* **http://dynamobim.org/forums/forum/dyn/ 论坛**
+* **http://dynamoprimer.com/ 通用Dynamo学习**
+* **博客、github和个人网站——包装细节和更新**
+* **http://deattor.com/ 如何使用特定的节点**
+
+
 我打算合著者这个网站与各种专业的Dynamo用户和开发人员,以确保内容是多产的,有用的和实际的。
 
  
