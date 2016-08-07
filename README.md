@@ -30,7 +30,7 @@ Dynamo Nodes on Dropbox
 
 这是如何符合现有的Dynamo在线社区?是这样的:
 
-http://dynamobim.org/ 主要的网站
+* **http://dynamobim.org/ 主要的网站**
 http://dynamobim.org/download/ 下载网站
 http://dynamopackages.com/ 浏览和下载包
 http://dynamobim.org/forums/forum/dyn/ 论坛
