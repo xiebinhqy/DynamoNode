@@ -6,5 +6,5 @@
 * [Custom Nodes](03_Custom Nodes/3.Nodes instructions.md)
 * [Custom Nodes 2](04_Custom Nodes 2/4.custom_nodes_2.md)
 * [Workflows](05_Workflows/5.workflows in.md)
-* Resources
+* [Resources](Resources)
 
