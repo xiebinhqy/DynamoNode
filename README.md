@@ -27,14 +27,14 @@
 1. 每个文章是关于一个特定的节点
 1. 类别必须源包名称.
 1. 只读的节点名称应该是标签。其他节点应该列为参考图像所示标签匹配他们的名字。标签也可以用来帮助适航性,包括versions-in-use或项目类型或相似
-1. 试着遵守这个页面上的一个帖子on this page
+1. 试着遵守这个页面上的一个帖子[on this page](http://deattor.com/?p=18)
 
 
 协调我们的努力和消息传递和小组讨论,建立了一个体式的工作区在这个链接。任何活动海报将被邀请到工作区。
 
 **文件共享,Dropbox文件夹已经成立。管理员在DynamoWorks可以请求访问这个文件夹上传:**
 
-Dynamo Nodes on Dropbox
+[Dynamo Nodes on Dropbox](http://deattor.com/?p=12)
 
 这是如何符合现有的Dynamo在线社区?是这样的:
 
@@ -47,10 +47,10 @@ Dynamo Nodes on Dropbox
 * **http://deattor.com/ 如何使用特定的节点**
 
 
-我打算合著者这个网站与各种专业的Dynamo用户和开发人员,以确保内容是多产的,有用的和实际的。
+打算合著者这个网站与各种专业的Dynamo用户和开发人员,以确保内容是多产的,有用的和实际的。
 
 
-原文链接：【需要翻墙、需要翻墙、需要翻墙】重要的事情说三篇
+[原文链接](https://dynamonodes.com/blog/page/25/)
 
  
 
