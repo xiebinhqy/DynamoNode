@@ -91,3 +91,17 @@ Licensed under the Apache License, Version 2.0 (the "License"); you may not use 
 [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.See the License for the specific language governing permissions and limitations under the License.
+
+
+
+# 简单介绍
+
+Revit的大厦型号(BIM)信息在Dynamo各种功能软件成长。设计人员在开发平台——Dynamo使用解决问题,制定独立的工具。那么,背景设定,使用Dynamo吧。该栏目在Dynamo的概要说明和使用方法。
+
+![Dynamo Ecosystem](images/1/1-cover.png)
+
+
+
+
+
+
