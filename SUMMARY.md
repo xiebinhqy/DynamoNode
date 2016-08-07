@@ -5,4 +5,5 @@
 * [Standard Nodes](02_Standard Nodes/2 instructions.md)
 * [Custom Nodes](03_Custom Nodes/3.Nodes instructions.md)
 * [Custom Nodes 2](04_Custom Nodes 2/4.custom_nodes_2.md)
+* Workflows
 
