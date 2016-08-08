@@ -11,6 +11,6 @@
    * [1-1what is visual programming？](07_DynamoPrimer base/1-1what_is_visual_programming.md)
    * [1-2_what_is_dynamo.md](07_DynamoPrimer base/1-2what_is_dynamo.md)
    * [1-3_dynamo_in_action.md](07_DynamoPrimer base/1-3dynamo_in_action_md.md)
-   * 2_hello_dynamo
+   * [2_hello_dynamo](07_DynamoPrimer base/2 hello_dynamo.md)
 * [DynamoPrimer Expand](08_DynamoPrimer Expand/8_1 dynamoprimer_expand.md)
 
