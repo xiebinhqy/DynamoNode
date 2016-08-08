@@ -40,10 +40,10 @@ Dynamo工具栏是[恢复](Ctrl + Z)指令和[](Ctrl + Y)指令的其他文件�
 ####节点库
 库,附属的既定节点,被追加发展和包装等,定制节点被上载的所有节点都被隔离。库内的节点,其节点数据 **创建** 数据, 执行 **执行**, or **查询** 数据.
 
-#####Browsing
-By default, the **Library** will contain eight categories of Nodes. **Core** and **Geometry** are great menus to begin exploring as they contain the largest quantity of Nodes.  Browsing through these categories is the fastest way to understand the hierarchy of what we can add to our Workspace and the best way to discover new Nodes you haven't used before.
+##### 参照类
+默认情况下,  **Library** 将包含八个类别的节点. **Core** and **Geometry** 是最多包含的节点,因此节点,如果这些寻找最初使用的分类建议。这些范畴为参照,节奏的联盟可以追加的节点阶层、至今没有使用了新的节点最佳的方法寻找简单,可以理解。
 
-> We will focus on the default collection of Nodes now, but note that we will extend this Library with Custom Nodes, additional libraries, and the Package Manager later.
+> 在这里,既定的节点为中心,后来确认,追加的库,定义节点Package Manager,使用这个库,扩展了。
 
 ![NEEDS UPDATE-full width - Library Categories](images/2-2/04-LibraryCategories.png)
 >1. Analyze
@@ -54,14 +54,14 @@ By default, the **Library** will contain eight categories of Nodes. **Core** and
 6. Office
 7. Operators
 
-Browse the Library by clicking through the menus. Click the Geometry > Circle. Note the new portion of the menu that is revealed and specifically the **Create** and **Query** Labels.
+[存档]菜单点击库,并参照[Geometry] > 点击[Circle]。新的菜单项目(具体来说, **Create** and **Query** 显示,请确认）
 
 ![NEEDS UPDATE-use full width - Browsing the Library](images/2-2/05-LibraryBrowsing.png)
->1. Library
-2. Category
-3. Subcategory: Create/Actions/Query
-4. Node
-5. Node Description and properties - this appears when hovering over the node icon.
+>1. 库
+2. 类别
+3. 子类别:创建/行动/查询
+4. 节点
+5. 节点描述和属性——这节点图标出现在上空盘旋。
 
 From the same Circle menu, hover your mouse over **ByCenterPointRadius**. The window reveals more detailed information about the Node beyond its name and icon. This offers us a quick way to understand what the Node does, what it will require for inputs, and what it will give as an output.
 
