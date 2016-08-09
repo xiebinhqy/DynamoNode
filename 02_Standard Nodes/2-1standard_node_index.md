@@ -32,9 +32,8 @@
 * Arc.ByBestFitThroughPoints
 * Arc.ByCenterPointRadiusAngle
 * Arc.ByCenterPointStartPointEndPoint
-
-Arc.ByCenterPointStartPointSweepAngle
-Arc.ByFillet
+* Arc.ByCenterPointStartPointSweepAngle
+* Arc.ByFillet
 Arc.ByFilletTangentToCurve
 Arc.ByStartEndAndTangencies
 Arc.ByStartPointEndPointStartTangent
