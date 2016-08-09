@@ -121,25 +121,25 @@
 * CoordianteSystem.Scale (amount)
 * CoordianteSystem.Scale (basePoint, from, to)
 * CoordianteSystem.Scale (plane, xAmount, yAmount, zAmount)
-CoordianteSystem.Scale (xAmount, yAmount, zAmount)
-CoordianteSystem.Scale1D
-CoordianteSystem.Scale2D
-CoordianteSystem.ScaleFactor
-CoordianteSystem.Transform (cs)
-CoordianteSystem.Transform (fromCoordinateSystem, contextCoordinateSystem)
-CoordianteSystem.Translate (direction)
-CoordianteSystem.Translate (direction, distance)
-CoordianteSystem.Translate (xTranslation, yTranslation, zTranslation)
-CoordianteSystem.xAxis
-CoordianteSystem.xScaleFactor
-CoordianteSystem.xyPlane
-CoordianteSystem.yAxis
+* CoordianteSystem.Scale (xAmount, yAmount, zAmount)
+* CoordianteSystem.Scale1D
+* CoordianteSystem.Scale2D
+* CoordianteSystem.ScaleFactor
+* CoordianteSystem.Transform (cs)
+* CoordianteSystem.Transform (fromCoordinateSystem, contextCoordinateSystem)
+* CoordianteSystem.Translate (direction)
+* CoordianteSystem.Translate (direction, distance)
+* CoordianteSystem.Translate (xTranslation, yTranslation, zTranslation)
+* CoordianteSystem.xAxis
+* CoordianteSystem.xScaleFactor
+* CoordianteSystem.xyPlane
+* CoordianteSystem.yAxis
 * CoordianteSystem.yScaleFactor
 * CoordianteSystem.yzPlane
-CoordianteSystem.zAxis
-CoordianteSystem.zScaleFactor
-CoordianteSystem.zxPlane
-Count
+* CoordianteSystem.zAxis
+* CoordianteSystem.zScaleFactor
+* CoordianteSystem.zxPlane
+* Count
 CountFalse
 CountTrue
 Cricle.ByBestFitThroughPoints

@@ -48,10 +48,10 @@ Dynamo启动,Windows的[开始]菜单,[Dynamo]>[** Dynamo(版本号)**]。因此
 Open the first sample file to open your first workspace and confirm Dynamo is working correctly. Click Samples > Basics > **Basics_Basic01.dyn**.
 
 ![NEEDS UPDATE - Basics_Basic01](images/2-1/05-Basics_Basic01.png)
-> 1. Confirm that the Execution Bar says "Automatic" or click Run
-2. Follow the instructions and connect the **Number** Node to the **+** Node
-3. Confirm that this Watch Node shows a result
+> 1. [自动]被显示的确认。没有被显示时,单击[执行]。
+2. 按照说明和连接 **Number** 节点的 **+** 连接
+3. Watch节点被标记结果确认。
 
-If this file successfully loads, you should be able to execute your first visual program with Dynamo.
+这个文件被正常发展,如果在Dynamo视觉开始编程。
 
 
