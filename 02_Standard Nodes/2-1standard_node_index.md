@@ -113,14 +113,14 @@
 * CoordianteSystem.IsSingular
 * CoordianteSystem.IsUniscaledOrtho
 * CoordianteSystem.Mirror
-CoordianteSystem.Origin
-CoordianteSystem.PostMultiplyBy
-CoordianteSystem.PreMultiplyBy
-CoordianteSystem.Rotate (origin, axis, degrees)
-CoordianteSystem.Rotate (origin, degrees)
-CoordianteSystem.Scale (amount)
-CoordianteSystem.Scale (basePoint, from, to)
-CoordianteSystem.Scale (plane, xAmount, yAmount, zAmount)
+* CoordianteSystem.Origin
+* CoordianteSystem.PostMultiplyBy
+* CoordianteSystem.PreMultiplyBy
+* CoordianteSystem.Rotate (origin, axis, degrees)
+* CoordianteSystem.Rotate (origin, degrees)
+* CoordianteSystem.Scale (amount)
+* CoordianteSystem.Scale (basePoint, from, to)
+* CoordianteSystem.Scale (plane, xAmount, yAmount, zAmount)
 CoordianteSystem.Scale (xAmount, yAmount, zAmount)
 CoordianteSystem.Scale1D
 CoordianteSystem.Scale2D
