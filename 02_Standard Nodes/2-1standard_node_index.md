@@ -134,8 +134,8 @@ CoordianteSystem.xAxis
 CoordianteSystem.xScaleFactor
 CoordianteSystem.xyPlane
 CoordianteSystem.yAxis
-CoordianteSystem.yScaleFactor
-CoordianteSystem.yzPlane
+* CoordianteSystem.yScaleFactor
+* CoordianteSystem.yzPlane
 CoordianteSystem.zAxis
 CoordianteSystem.zScaleFactor
 CoordianteSystem.zxPlane
@@ -922,7 +922,7 @@ Vector.Add
 Vector.AngleBetween (otherVector)
 Vector.AngleBetween (otherVector, rotationAxis)
 Vector.AsPoint
-Vector.ByCoordiantes (x, y, z)
+* Vector.ByCoordiantes (x, y, z)
 Vector.ByCoordinates (x, y, z, normalized)
 Vector.ByTwoPoints
 Vector.Cross
