@@ -26,5 +26,5 @@
    * [The Workspace](02_Hello-Dynamo/2-3_the_workspace.md)
    * [The workflow](02_Hello-Dynamo/2-4_the_workflow.md)
    * [GETTING STARTED](02_Hello-Dynamo/2-6_the_quick_start_guide.md)
-* [Anatomy of a Dynamo Definition](03_Anatomy-of-a-Dynamo-Definition)
+* [Anatomy of a Dynamo Definition](03_Anatomy-of-a-Dynamo-Definition/3_anatomy-of-a-dynamo-definition.md)
 
