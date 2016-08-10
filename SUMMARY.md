@@ -44,5 +44,5 @@
    * [Points](05_Geometry-for-Computational-Design/5-3_points.md)
    * [Curves](05_Geometry-for-Computational-Design/5-4_curves.md)
    * [Surfaces](05_Geometry-for-Computational-Design/5-5_surfaces.md)
-   * Solids
+   * [Solids](05_Geometry-for-Computational-Design/5-6_solids.md)
 
