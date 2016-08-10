@@ -46,5 +46,5 @@
    * [Surfaces](05_Geometry-for-Computational-Design/5-5_surfaces.md)
    * [Solids](05_Geometry-for-Computational-Design/5-6_solids.md)
    * [Meshes](05_Geometry-for-Computational-Design/5-7_meshes.md)
-   * Importing Geometry
+   * [Importing Geometry](05_Geometry-for-Computational-Design/5-8_importing.md)
 
