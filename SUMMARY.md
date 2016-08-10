@@ -55,5 +55,5 @@
 * [Code Blocks and DesignScript](07_Code-Block/7_Code-Blocks-and-Design-Script.md)
    * [What's a Code Block?](07_Code-Block/7-1_what-is-a-code-block.md)
    * [DesignScript Syntax](07_Code-Block/7-2_Design-Script-syntax.md)
-   * Shorthand
+   * [Shorthand](07_Code-Block/7-3_shorthand.md)
 
