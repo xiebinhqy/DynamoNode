@@ -25,5 +25,5 @@
    * [The Dynamo User Interface](02_Hello-Dynamo/2-2_the_dynamo_ui.md)
    * [The Workspace](02_Hello-Dynamo/2-3_the_workspace.md)
    * [The workflow](02_Hello-Dynamo/2-4_the_workflow.md)
-   * GETTING STARTED
+   * [GETTING STARTED](02_Hello-Dynamo/2-6_the_quick_start_guide.md)
 
