@@ -23,6 +23,8 @@ Frequently we will want to adjust the Program Flow in our Visual Program by edit
 
 ![Editing Wires](images/3-2/02-EditingWires.png)
 
+
+
 > 1. Existing Wire
 2. To change the connection to an input Port, left click on another input Port
 3. To remove the Wire, pull the Wire away and left click on the Workspace
