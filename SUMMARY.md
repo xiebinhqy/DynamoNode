@@ -35,4 +35,5 @@
 * [The Building Blocks of Programs](04_The-Building-Blocks-of-Programs/4_the-building-blocks-of-programs.md)
    * [Data](04_The-Building-Blocks-of-Programs/4-1_data.md)
    * [Math](04_The-Building-Blocks-of-Programs/4-2_math.md)
+   * Logic
 
