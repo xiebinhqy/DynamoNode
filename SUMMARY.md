@@ -30,4 +30,5 @@
    * [Nodes](03_Anatomy-of-a-Dynamo-Definition/3-1_dynamo_nodes.md)
    * [Wires](03_Anatomy-of-a-Dynamo-Definition/3-3_wiring_programs.md)
    * [Library](03_Anatomy-of-a-Dynamo-Definition/3-2_dynamo_libraries.md)
+   * Managing Your Program
 
