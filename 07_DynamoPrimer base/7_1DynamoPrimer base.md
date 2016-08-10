@@ -7,7 +7,7 @@
 ## Dynamo v9.0.x
 
 ![Dynamo Logo](images/dynamo_logo_dark-trim.png)
-
+![](https://github.com/xiebinhqy/DynamoNode/blob/master/images/dynamo_logo_dark-trim.png)
 > Dynamo,是设计人员的编程平台开放源码的视觉效果。
 
 ### 欢迎
