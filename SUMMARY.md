@@ -21,4 +21,5 @@
    * [What is Dynamo?](01_Introduction/1-2_what_is_dynamo.md)
    * [Dynamo in action](01_Introduction/1-3_dynamo_in_action.md)
 * [Hello Dynamo](02_Hello-Dynamo/2_hello_dynamo.md)
+   * Installing and Launching Dynamo
 
