@@ -17,5 +17,4 @@
 * [DynamoPrimer Expand](08_DynamoPrimer Expand/8_1 dynamoprimer_expand.md)
 * [DynamoPrimer About](01_Introduction/DynamoPrimer about.md)
    * 01_Introduction
-* [Introduction](01_Introduction)
 
