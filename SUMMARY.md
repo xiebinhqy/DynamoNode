@@ -28,4 +28,5 @@
    * [GETTING STARTED](02_Hello-Dynamo/2-6_the_quick_start_guide.md)
 * [Anatomy of a Dynamo Definition](03_Anatomy-of-a-Dynamo-Definition/3_anatomy-of-a-dynamo-definition.md)
    * [Nodes](03_Anatomy-of-a-Dynamo-Definition/3-1_dynamo_nodes.md)
+   * Wires
 
