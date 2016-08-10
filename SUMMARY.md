@@ -51,4 +51,5 @@
    * [What's a List?](06_Designing-with-Lists/6-1_whats-a-list.md)
    * [Working with Lists](06_Designing-with-Lists/6-2_working-with-lists.md)
    * [Lists of Lists](06_Designing-with-Lists/6-3_lists-of-lists.md)
+   * n-Dimensional Lists
 
