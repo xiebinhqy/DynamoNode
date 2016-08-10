@@ -9,3 +9,15 @@ _Introduction Text_
 ###2.4.3	Wires
 
 ###2.4.4	Execution Bar – ie Running the Workspace
+
+
+## 2.5 File Types and Management
+
+Introduction Text
+
+* dyn
+* dyf
+* packages?
+
+
+
