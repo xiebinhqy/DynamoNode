@@ -36,4 +36,5 @@
    * [Data](04_The-Building-Blocks-of-Programs/4-1_data.md)
    * [Math](04_The-Building-Blocks-of-Programs/4-2_math.md)
    * [Logic](04_The-Building-Blocks-of-Programs/4-3_logic.md)
+   * Strings
 
