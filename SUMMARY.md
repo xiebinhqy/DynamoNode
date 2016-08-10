@@ -24,5 +24,5 @@
    * [Installing and Launching Dynamo](02_Hello-Dynamo/2-1_launching_dynamo.md)
    * [The Dynamo User Interface](02_Hello-Dynamo/2-2_the_dynamo_ui.md)
    * [The Workspace](02_Hello-Dynamo/2-3_the_workspace.md)
-   * The workflow
+   * [The workflow](02_Hello-Dynamo/2-4_the_workflow.md)
 
