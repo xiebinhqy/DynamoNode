@@ -22,5 +22,5 @@
    * [Dynamo in action](01_Introduction/1-3_dynamo_in_action.md)
 * [Hello Dynamo](02_Hello-Dynamo/2_hello_dynamo.md)
    * [Installing and Launching Dynamo](02_Hello-Dynamo/2-1_launching_dynamo.md)
-   * The Dynamo User Interface
+   * [The Dynamo User Interface](02_Hello-Dynamo/2-2_the_dynamo_ui.md)
 
