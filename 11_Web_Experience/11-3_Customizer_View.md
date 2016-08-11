@@ -11,6 +11,9 @@ In the Customizer view, users can export geometry as an STL mesh for rapid proto
 
 ###Customizer View UI
 
+
+### 编辑器视图的用户界面
+
 The Customizer view consists of a menu bar, a flyout menu containing a description of the file and user inputs, and a 3D view, similar to the Dynamo workspace.
 
 ![](images/customizer_01.png)
