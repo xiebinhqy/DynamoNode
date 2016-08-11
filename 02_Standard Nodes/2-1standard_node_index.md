@@ -290,89 +290,89 @@
 * DividedSurface.UDivisions
 * DividedSurface.VDivisions
 * Document.ActiveView
-Document.Current
-Document.FilePath
-Document.IsFamilyDocument
-Document.Location
-DraftingView.ByName
-Edge.AdjacentFaces
-Edge.CurveGeometry
-Edge.EndVertex
-Edge.StartVertex
-Element.BoundingBox
-Element.Curves
-Element.ElementCurveReferences
-Element.ElementFaceReferences
-Element.Faces
-Element.Geometry
-Element.GetParameterValueByName
-Element.Id
-Element.Name
-Element.OverrideColorInView
-Element.Parameters
-Element.SetParameterByName
-Element.Solids
-Element.ToString
-Element.UniqueID
-Ellipse.ByCoordinateSystemRadii
-Ellipse.ByOriginRadii
-Ellipse.ByOriginVectors
-Ellipse.ByPlaneRadii
-Ellipse.CenterPoint
-Ellipse.MajorAxis
-Ellipse.MinorAxis
-EllipseArc.ByPlaneRadiiStartAngleSweepAngle
-EllipseArc.CenterPoint
-EllipseArc.MajorAxis
-EllipseArc.MinorAxis
-EllipseArc.StartAngle
-EllipseArc.SweepAngle
-Equals
-Evaluate.Function.Apply
-Evaluate.Function.Compose
-Excel.ReadFromFile
-Excel.WriteToFile
-Face.Edges
-Face.SurfaceGeometry
-Face.Vertices
-FaceAnalysisDisplay.ByViewAndFaceAnalysisData
-FaceAnalysisDisplay.ByViewFacePointsAndValues
-Family.ByName
-Family.Name
-Family.Types (Family Types)
-FamilyInstance.ByCoordinates
-FamilyInstance.ByFamilyType
-FamilyInstance.ByPoint
-FamilyInstance.ByPointAndLevel
-FamilyInstance.FacingOrientation
-FamilyInstance.Location
-FamilyInstance.SetRotation
-FamilyInstance.Type
-FamilyType.ByFamilyAndName
-FamilyType.ByFamilyNameAndTypeName
-FamilyType.ByName
-FamilyType.Family
-FamilyType.Name
-File Path
-File.Copy
-File.Delete
-File.Exists
-File.FromPath
-File.Move
-File.ReadText (file)
-File.WriteText
-FilePath.ChangeExtension
-FilePath.Combine
-FilePath.DirectoryName
-FilePath.Extension
-FilePath.FileName
-FilePath.HasExtension
-Flatten
-Floor.ByOutlineTypeAndLevel (outline, floorType, level)
-Floor.ByOutlineTypeAndLevel (outlineCurves, floorType, level)
-FloorPlanView.ByLevel
-FloorType.ByName
-FloorType.Name
+* Document.Current
+* Document.FilePath
+* Document.IsFamilyDocument
+* Document.Location
+* DraftingView.ByName
+* Edge.AdjacentFaces
+* Edge.CurveGeometry
+* Edge.EndVertex
+* Edge.StartVertex
+* Element.BoundingBox
+* Element.Curves
+* Element.ElementCurveReferences
+* Element.ElementFaceReferences
+* Element.Faces
+* Element.Geometry
+* Element.GetParameterValueByName
+* Element.Id
+* Element.Name
+* Element.OverrideColorInView
+* Element.Parameters
+* Element.SetParameterByName
+* Element.Solids
+* Element.ToString
+* Element.UniqueID
+* Ellipse.ByCoordinateSystemRadii
+* Ellipse.ByOriginRadii
+* Ellipse.ByOriginVectors
+* Ellipse.ByPlaneRadii
+* Ellipse.CenterPoint
+* Ellipse.MajorAxis
+* Ellipse.MinorAxis
+* EllipseArc.ByPlaneRadiiStartAngleSweepAngle
+* EllipseArc.CenterPoint
+* EllipseArc.MajorAxis
+* EllipseArc.MinorAxis
+* EllipseArc.StartAngle
+* EllipseArc.SweepAngle
+* Equals
+* Evaluate.Function.Apply
+* Evaluate.Function.Compose
+* Excel.ReadFromFile
+* Excel.WriteToFile
+* Face.Edges
+* Face.SurfaceGeometry
+* Face.Vertices
+* FaceAnalysisDisplay.ByViewAndFaceAnalysisData
+* FaceAnalysisDisplay.ByViewFacePointsAndValues
+* Family.ByName
+* Family.Name
+* Family.Types (Family Types)
+* FamilyInstance.ByCoordinates
+* FamilyInstance.ByFamilyType
+* FamilyInstance.ByPoint
+* FamilyInstance.ByPointAndLevel
+* FamilyInstance.FacingOrientation
+* FamilyInstance.Location
+* FamilyInstance.SetRotation
+* FamilyInstance.Type
+* FamilyType.ByFamilyAndName
+* FamilyType.ByFamilyNameAndTypeName
+* FamilyType.ByName
+* FamilyType.Family
+* FamilyType.Name
+* File Path
+* File.Copy
+* File.Delete
+* File.Exists
+* File.FromPath
+* File.Move
+* File.ReadText (file)
+* File.WriteText
+* FilePath.ChangeExtension
+* FilePath.Combine
+* FilePath.DirectoryName
+* FilePath.Extension
+* FilePath.FileName
+* FilePath.HasExtension
+* Flatten
+* Floor.ByOutlineTypeAndLevel (outline, floorType, level)
+* Floor.ByOutlineTypeAndLevel (outlineCurves, floorType, level)
+* FloorPlanView.ByLevel
+* FloorType.ByName
+* FloorType.Name
 Form.ByLoftCrossSections (curves, IsSolid)
 Form.ByLoftCrossSections (nested curves, IsSolid)
 Formula
