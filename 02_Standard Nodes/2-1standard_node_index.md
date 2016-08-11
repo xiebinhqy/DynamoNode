@@ -949,10 +949,10 @@ Solid.BySweep2Rails
 * VectorAnalysis Display.ByViewAndVectorAnalysisData
 * VectorAnalysis Display.ByViewPointsAndVectorValues
 * Vertex.AdjacentEdges
-*   Vertex.AdjacentFaces
-Vertex.PointGeometry
-View.AllElementsInActiveView
-View.ExportAsImage
+* Vertex.AdjacentFaces
+* Vertex.PointGeometry
+* View.AllElementsInActiveView
+* View.ExportAsImage
 View.SunSettings.Current
 View3D.CreateUniqueViewName
 Voronoi.ByParametersOnSurface
