@@ -277,19 +277,19 @@
 * Directory.FromPath
 * Directory.Move
 * DirectShape.ByGeometry
-DirectShape.ByMesh
-Display.ByGeometryColor
-Display.BySurfaceColors
-DividedPath.ByCurveAndDivisions (curve, divisions)
-DividedPath.ByCurvesAndDivisions (curve, divisions)
-DividedPath.Points
-DividedPath.SpacingRuleLayout
-DividedSurface.ByFaceAndUVDivisions (elementFace, uDivs, vDivs)
-DividedSurface.ByFaceUVDivisionsAndRotation (surface, uDivs, vDivs, gridRotation)
-DividedSurface.Rotation
-DividedSurface.UDivisions
-DividedSurface.VDivisions
-Document.ActiveView
+* DirectShape.ByMesh
+* Display.ByGeometryColor
+* Display.BySurfaceColors
+* DividedPath.ByCurveAndDivisions (curve, divisions)
+* DividedPath.ByCurvesAndDivisions (curve, divisions)
+* DividedPath.Points
+* DividedPath.SpacingRuleLayout
+* DividedSurface.ByFaceAndUVDivisions (elementFace, uDivs, vDivs)
+* DividedSurface.ByFaceUVDivisionsAndRotation (surface, uDivs, vDivs, gridRotation)
+* DividedSurface.Rotation
+* DividedSurface.UDivisions
+* DividedSurface.VDivisions
+* Document.ActiveView
 Document.Current
 Document.FilePath
 Document.IsFamilyDocument
@@ -750,42 +750,42 @@ Selection.ElementTypes
 Selection.FamilyTypes
 Selection.FloorTypes
 Selection.GetFamilyParameter
-Selection.Levels
-Selection.SelectDivdedSurfaceFamilies
-Selection.SelectEdge
-Selection.SelectFace
-Selection.SelectFaces
-Selection.SelectModelElement
-Selection.SelectModelElements
-Selection.SelectPointOnFace
-Selection.SelectUVonFace
-Selection.StructuralColumnTypes
-Selection.StructuralFramingTypes
-Selection.Views
-Selection.WallTypes
-Sequence
-SetDifference
-SetIntersection
-SetUnion
-Sheet.ByNameNumberTitleBlockAndView
-Sheet.ByNameNumberTitleBlockAndViews
-Sheet.SheetName
-Sheet.SheetNumber
-Sheet.Views
-SiteLocation
-SkecthPlane.ByCoordinates
-SkecthPlane.ByPlane
-SkecthPlane.ElementPlaneReference
-SkecthPlane.Plane
-SkyModel.ByTypeConstants
-Solid.Area
-Solid.ByJoinedSurfaces
-Solid.ByLoft (crossSections)
-Solid.ByLoft (crossSections, guideCurve)
-Solid.ByLoft (crossSections, guideCurves)
-Solid.ByRevolve
-Solid.BySweep
-Solid.BySweep2Rails
+* Selection.Levels
+* Selection.SelectDivdedSurfaceFamilies
+* Selection.SelectEdge
+* Selection.SelectFace
+* Selection.SelectFaces
+* Selection.SelectModelElement
+* Selection.SelectModelElements
+* Selection.SelectPointOnFace
+* Selection.SelectUVonFace
+* Selection.StructuralColumnTypes
+* Selection.StructuralFramingTypes
+* Selection.Views
+* Selection.WallTypes
+* Sequence
+* SetDifference
+* SetIntersection
+* SetUnion
+* Sheet.ByNameNumberTitleBlockAndView
+* Sheet.ByNameNumberTitleBlockAndViews
+* Sheet.SheetName
+* Sheet.SheetNumber
+* Sheet.Views
+* SiteLocation
+* SkecthPlane.ByCoordinates
+* SkecthPlane.ByPlane
+* SkecthPlane.ElementPlaneReference
+* SkecthPlane.Plane
+* SkyModel.ByTypeConstants
+* Solid.Area
+* Solid.ByJoinedSurfaces
+* Solid.ByLoft (crossSections)
+* Solid.ByLoft (crossSections, guideCurve)
+* Solid.ByLoft (crossSections, guideCurves)
+* Solid.ByRevolve
+* Solid.BySweep
+* Solid.BySweep2Rails
 * Solid.ByUnion
 * Solid.Centroid
 * Solid.Chamfer
@@ -953,14 +953,14 @@ Solid.BySweep2Rails
 * Vertex.PointGeometry
 * View.AllElementsInActiveView
 * View.ExportAsImage
-View.SunSettings.Current
-View3D.CreateUniqueViewName
-Voronoi.ByParametersOnSurface
-Wall.ByCurveAndHeight
-Wall.ByCurveAndLevels
-WallType.ByName
-WallType.Name
-Watch
-Watch 3D
-Watch Image
-Xor
+* View.SunSettings.Current
+* View3D.CreateUniqueViewName
+* Voronoi.ByParametersOnSurface
+* Wall.ByCurveAndHeight
+* Wall.ByCurveAndLevels
+* WallType.ByName
+* WallType.Name
+* Watch
+* Watch 3D
+* Watch Image
+* Xor
