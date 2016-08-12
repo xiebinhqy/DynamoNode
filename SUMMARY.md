@@ -81,5 +81,5 @@
    * [Customizer View](11_Web_Experience/11-3_Customizer_View.md)
 * [Appendix](Appendix/A_appendix.md)
    * [Resources](Appendix/A-1_resources.md)
-   * Index of Nodes
+   * [Index of Nodes](Appendix/A-2_index-of-nodes.md)
 
