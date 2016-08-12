@@ -80,5 +80,5 @@
    * [Send to Web](11_Web_Experience/11-2_Send_to_Web.md)
    * [Customizer View](11_Web_Experience/11-3_Customizer_View.md)
 * [Appendix](Appendix/A_appendix.md)
-   * Resources
+   * [Resources](Appendix/A-1_resources.md)
 
