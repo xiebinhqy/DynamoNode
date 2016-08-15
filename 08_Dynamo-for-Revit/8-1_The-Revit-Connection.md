@@ -25,20 +25,21 @@ Revit的基因学和Dynamo的主要节点组合起来使用,相互运用性,设�
 >1. When openinig Dynamo in Revit, there is a new category called *"Revit"*.  This is a comprehensive addition to the UI which offers nodes specifically catering to Revit workflows.*
 
 
-
 > 1. 在起动Revit Dynamo,Dynamo的库内[* Revit *]的新范畴。这个新的类别,Revit流程专用的节点可以访问。
-
 
 
 **注 - Dynamo Revit固有的家庭用图表处理节点的情况下,使用图表是在正在运行Revit Dynamo打开时只正常动作。例如,在正在运行Revit Dynamo的图表,Dynamo Sandbox举行Revit节点被丢失.*
 
+
 ### 冻结的节点
+
+
 Revit在健全的项目管理提供平台,因此Dynamo的参数根据情况操作变得复杂,计算速度下降。If Dynamo is taking a long time to calculate nodes, Dynamo的节点计算需要时间,则节点“死机”的功能,使用图表的开发中相关操作运行Revit可以停止。节点的死机问题,操作的详细[solids chapter](../05_Geometry-for-Computational-Design/5-6_solids.md#freezing)请参照。
 
 ### 社区
 Dynamo,原本建筑设计人员和结构设计人员开发的工具。Dynamo的社区,是建设行业的专家和交流并可以学习场所,目前也在持续增长。Dynamo的社区的信息共享和开发项目,积极参加建筑设计,结构设计人员,根据程序员,设计师组成。
 
-Dynamo is an open-source project that is constantly evolving, and a lot of development is Revit-related.  If you're new to the game, get on the discussion forum and start [posting questions](http://dynamobim.org/forums/forum/dyn/)!  If you're a programmer and want to get involved in Dynamo's development, check out the [github page.](https://github.com/DynamoDS/Dynamo).  Also, a great resource for third-party libraries is the [Dynamo package manager](http://dynamopackages.com/). Many of these packages are made with AEC in mind, and we'll take a look at third-party packages for panelization in this chapter.
+Dynamo在持续进化到开源项目中去,其开发的大部分是Revit有关。专题论坛,提问[posting questions](http://dynamobim.org/forums/forum/dyn/)投稿请。作为程序员如果参与Dynamo项目,是下面的链接,请参照:[github page.](https://github.com/DynamoDS/Dynamo)GitHub的Dynamo页。另外,[Dynamo Package Manager](http://dynamopackages.com/)那么,各种第三方产库提供。被提供的包装,大多是建设行业的作业流程中使用的目的是制定。实际上,面板制作用的第三方制造包装使用一下吧。
 
 ![Blog](images/8-1/blog.png)
 > Dynamo开发团队,[Blog](http://dynamobim.com/blog/)频繁更新。最近的报道,最新的开发确认请获取信息。
