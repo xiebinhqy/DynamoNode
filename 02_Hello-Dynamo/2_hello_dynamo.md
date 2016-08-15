@@ -1,5 +1,5 @@
-#HELLO DYNAMO!
+#Dynamo的概要
 
-At its core, Dynamo is a platform for Visual Programming - it is a flexible and extensible design tool. Because it can operate as a stand-alone application or as an add-on to other design software, we can use it to develop a wide range of creative workflows. Let's install Dynamo and get started by reviewing the key features of the interface.
+Dynamo的核心是一个可视化编程平台，它是一个灵活的可扩展的设计工具，因为他可以作为独立的应用程序，可以附加其他设计软件，我们可以用它来开发各种创造性的工作流程。让我们安装Dyanmo,一起来学习Dynamo.
 
 ![Hello Attractor](images/2/2-cover.png)
