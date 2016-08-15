@@ -3,6 +3,8 @@
 这是一个标准的节点列表包含Dynamo“打开运行”。作为标准节点页面发布在Dynamo节点,都用标准来创建一个索引节点页面。感谢托马斯·沃格提供这个列表从他的“Dynamo节点”。
 
 
+
+
 – (minus)
 ! (Not)
 != (not equal)
@@ -140,237 +142,237 @@
 * CoordianteSystem.zScaleFactor
 * CoordianteSystem.zxPlane
 * Count
-CountFalse
-CountTrue
-Cricle.ByBestFitThroughPoints
-Cricle.ByCenterPointRadius
-Cricle.ByCenterPointRadiusNormal
-Cricle.ByPlaneRadius
-Cricle.ByThreePoints
-Cricle.CenterPoint
-Cricle.Radius
-CSV.ReadFromFile
-CSV.WriteToFile
-Cuboid.ByCorners
-Cuboid.ByLengths (cs, width, length, height)
-Cuboid.ByLengths (origin, width, length, height)
-Cuboid.ByLengths (width, length, height)
-Cuboid.Height
-Cuboid.Length
-Cuboid.Width
-CurtainPanel.AsFamilyInstance
-CurtainPanel.Boundaries
-CurtainPanel.ByElement
-CurtainPanel.HasPlane
-CurtainPanel.Height
-CurtainPanel.IsRectangular
-CurtainPanel.Length
-CurtainPanel.PanelPlane
-CurtainPanel.SupportingMullions
-CurtainPanel.Width
-Curve.ApproximateWithArcAndLineSegments
-Curve.ByBlendBetweenCurves
-Curve.ByIsoCurveOnSurface
-Curve.ByParameterLineOnSurface
-Curve.CoordinateSystemAtDistance
-Curve.CorrdinateSystemAtParameter
-Curve.DistanceAtParameter
-Curve.DivideByDistance
-Curve.DivideByDistanceFromParameter
-Curve.DivideByLengthFromParameter
-Curve.DivideEqually
-Curve.EndParameter
-Curve.EndPoint
-Curve.Extend
-Curve.ExtendEnd
-Curve.ExtendStart
-Curve.Extrude (direction)
-Curve.Extrude (direction, distance)
-Curve.Extrude (distance)
-Curve.HorizontalFrameAtParameter
-Curve.IsClosed
-Curve.IsPlanar
-Curve.Join (curve)
-Curve.Join (curves)
-Curve.Length
-Curve.LengthBetweenParameters
-Curve.Normal
-Curve.NormalAtParameter
-Curve.Offset
-Curve.ParameterAtChordLength
-Curve.ParameterAtDistance
-Curve.ParameterAtPoint
-Curve.ParameterSplit (parameter)
-Curve.ParameterSplit (parameters)
-Curve.ParameterTrim
-Curve.ParameterTrimEnde
-Curve.ParameterTrimInterior
-Curve.ParameterTrimSegments (parameters)
-Curve.ParameterTrimSegments (parameters, discardEvenSegments)
-Curve.ParameterTrimStart
-Curve.Patch
-Curve.PlaneAtDistance
-Curve.PlaneAtParameter
-Curve.PointAtDistance
-Curve.PointAtParameter
-Curve.Project
-Curve.PullOntoPlane
-Curve.PullOntoSurface
-Curve.Reverse
-Curve.Simplify
-Curve.StartParameter
-Curve.StartPoint
-Curve.SweepAsSolid
-Curve.SweepAsSurface
-Curve.TangentAtParameter
-Curve.ToNurbsCurve
-CurveByPoints.ByReferencePoints
-CurveElement.Curve
-CurveElement.ElementCurveReference
-Cylinder.ByPointsHeight
-Cylinder.ByPointsRadius
-Cylinder.Radius
-Date Time
-DateTime.AddTimeSpan
-DateTime.ByDate
-DateTime.ByDateAndTime
-DateTime.ByDateInformation
-DateTime.Components
-DateTime.Date
-DateTime.DayOfWeek
-DateTime.DayOfYear
-DateTime.DaysInMonth
-DateTime.FromString
-DateTime.IsDaylightSavingsTime
-DateTime.IsLeapYear
-DateTime.MaxValue
-DateTime.MinValue
-DateTime.Now
-DateTime.SubstractTimeSpan
-DateTime.TimeOfDay
-DateTime.Today
-DaylightningResults.Colors
-DaylightningResults.IlluminanceValues
-DaylightningResults.Normals
-DaylightningResults.Parse
-DaylightningResults.Points
-DaylightningResults.Resolution
-DaylightningResults.ToImage
-DaylightningResults.XResolution
-DaylightningResults.YResolution
-DayOfWeek.Friday
-DayOfWeek.Monday
-DayOfWeek.Saturday
-DayOfWeek.Sunday
-DayOfWeek.Thursday
-DayOfWeek.Tuesday
-DayOfWeek.Wednesday
-Delaunay.ByParametersOnSurface
-Delaunay.ByPoints
-Directory Path
-Directory.Contents
-Directory.Copy
-Directory.Delete
-Directory.Exists
-Directory.FromPath
-Directory.Move
-DirectShape.ByGeometry
-DirectShape.ByMesh
-Display.ByGeometryColor
-Display.BySurfaceColors
-DividedPath.ByCurveAndDivisions (curve, divisions)
-DividedPath.ByCurvesAndDivisions (curve, divisions)
-DividedPath.Points
-DividedPath.SpacingRuleLayout
-DividedSurface.ByFaceAndUVDivisions (elementFace, uDivs, vDivs)
-DividedSurface.ByFaceUVDivisionsAndRotation (surface, uDivs, vDivs, gridRotation)
-DividedSurface.Rotation
-DividedSurface.UDivisions
-DividedSurface.VDivisions
-Document.ActiveView
-Document.Current
-Document.FilePath
-Document.IsFamilyDocument
-Document.Location
-DraftingView.ByName
-Edge.AdjacentFaces
-Edge.CurveGeometry
-Edge.EndVertex
-Edge.StartVertex
-Element.BoundingBox
-Element.Curves
-Element.ElementCurveReferences
-Element.ElementFaceReferences
-Element.Faces
-Element.Geometry
-Element.GetParameterValueByName
-Element.Id
-Element.Name
-Element.OverrideColorInView
-Element.Parameters
-Element.SetParameterByName
-Element.Solids
-Element.ToString
-Element.UniqueID
-Ellipse.ByCoordinateSystemRadii
-Ellipse.ByOriginRadii
-Ellipse.ByOriginVectors
-Ellipse.ByPlaneRadii
-Ellipse.CenterPoint
-Ellipse.MajorAxis
-Ellipse.MinorAxis
-EllipseArc.ByPlaneRadiiStartAngleSweepAngle
-EllipseArc.CenterPoint
-EllipseArc.MajorAxis
-EllipseArc.MinorAxis
-EllipseArc.StartAngle
-EllipseArc.SweepAngle
-Equals
-Evaluate.Function.Apply
-Evaluate.Function.Compose
-Excel.ReadFromFile
-Excel.WriteToFile
-Face.Edges
-Face.SurfaceGeometry
-Face.Vertices
-FaceAnalysisDisplay.ByViewAndFaceAnalysisData
-FaceAnalysisDisplay.ByViewFacePointsAndValues
-Family.ByName
-Family.Name
-Family.Types (Family Types)
-FamilyInstance.ByCoordinates
-FamilyInstance.ByFamilyType
-FamilyInstance.ByPoint
-FamilyInstance.ByPointAndLevel
-FamilyInstance.FacingOrientation
-FamilyInstance.Location
-FamilyInstance.SetRotation
-FamilyInstance.Type
-FamilyType.ByFamilyAndName
-FamilyType.ByFamilyNameAndTypeName
-FamilyType.ByName
-FamilyType.Family
-FamilyType.Name
-File Path
-File.Copy
-File.Delete
-File.Exists
-File.FromPath
-File.Move
-File.ReadText (file)
-File.WriteText
-FilePath.ChangeExtension
-FilePath.Combine
-FilePath.DirectoryName
-FilePath.Extension
-FilePath.FileName
-FilePath.HasExtension
-Flatten
-Floor.ByOutlineTypeAndLevel (outline, floorType, level)
-Floor.ByOutlineTypeAndLevel (outlineCurves, floorType, level)
-FloorPlanView.ByLevel
-FloorType.ByName
-FloorType.Name
+* CountFalse
+* CountTrue
+* Cricle.ByBestFitThroughPoints
+* Cricle.ByCenterPointRadius
+* Cricle.ByCenterPointRadiusNormal
+* Cricle.ByPlaneRadius
+* Cricle.ByThreePoints
+* Cricle.CenterPoint
+* Cricle.Radius
+* CSV.ReadFromFile
+* CSV.WriteToFile
+* Cuboid.ByCorners
+* Cuboid.ByLengths (cs, width, length, height)
+* Cuboid.ByLengths (origin, width, length, height)
+* Cuboid.ByLengths (width, length, height)
+* Cuboid.Height
+* Cuboid.Length
+* Cuboid.Width
+* CurtainPanel.AsFamilyInstance
+* CurtainPanel.Boundaries
+* CurtainPanel.ByElement
+* CurtainPanel.HasPlane
+* CurtainPanel.Height
+* CurtainPanel.IsRectangular
+* CurtainPanel.Length
+* CurtainPanel.PanelPlane
+* CurtainPanel.SupportingMullions
+* CurtainPanel.Width
+* Curve.ApproximateWithArcAndLineSegments
+* Curve.ByBlendBetweenCurves
+* Curve.ByIsoCurveOnSurface
+* Curve.ByParameterLineOnSurface
+* Curve.CoordinateSystemAtDistance
+* Curve.CorrdinateSystemAtParameter
+* Curve.DistanceAtParameter
+* Curve.DivideByDistance
+* Curve.DivideByDistanceFromParameter
+* Curve.DivideByLengthFromParameter
+* Curve.DivideEqually
+* Curve.EndParameter
+* Curve.EndPoint
+* Curve.Extend
+* Curve.ExtendEnd
+* Curve.ExtendStart
+* Curve.Extrude (direction)
+* Curve.Extrude (direction, distance)
+* Curve.Extrude (distance)
+* Curve.HorizontalFrameAtParameter
+* Curve.IsClosed
+* Curve.IsPlanar
+* Curve.Join (curve)
+* Curve.Join (curves)
+* Curve.Length
+* Curve.LengthBetweenParameters
+* Curve.Normal
+* Curve.NormalAtParameter
+* Curve.Offset
+* Curve.ParameterAtChordLength
+* Curve.ParameterAtDistance
+* Curve.ParameterAtPoint
+* Curve.ParameterSplit (parameter)
+* Curve.ParameterSplit (parameters)
+* Curve.ParameterTrim
+* Curve.ParameterTrimEnde
+* Curve.ParameterTrimInterior
+* Curve.ParameterTrimSegments (parameters)
+* Curve.ParameterTrimSegments (parameters, discardEvenSegments)
+* Curve.ParameterTrimStart
+* Curve.Patch
+* Curve.PlaneAtDistance
+* Curve.PlaneAtParameter
+* Curve.PointAtDistance
+* Curve.PointAtParameter
+* Curve.Project
+* Curve.PullOntoPlane
+* Curve.PullOntoSurface
+* Curve.Reverse
+* Curve.Simplify
+* Curve.StartParameter
+* Curve.StartPoint
+* Curve.SweepAsSolid
+* Curve.SweepAsSurface
+* Curve.TangentAtParameter
+* Curve.ToNurbsCurve
+* CurveByPoints.ByReferencePoints
+* CurveElement.Curve
+* CurveElement.ElementCurveReference
+* Cylinder.ByPointsHeight
+* Cylinder.ByPointsRadius
+* Cylinder.Radius
+* Date Time
+* DateTime.AddTimeSpan
+* DateTime.ByDate
+* DateTime.ByDateAndTime
+* DateTime.ByDateInformation
+* DateTime.Components
+* DateTime.Date
+* DateTime.DayOfWeek
+* DateTime.DayOfYear
+* DateTime.DaysInMonth
+* DateTime.FromString
+* DateTime.IsDaylightSavingsTime
+* DateTime.IsLeapYear
+* DateTime.MaxValue
+* DateTime.MinValue
+* DateTime.Now
+* DateTime.SubstractTimeSpan
+* DateTime.TimeOfDay
+* DateTime.Today
+* DaylightningResults.Colors
+* DaylightningResults.IlluminanceValues
+* DaylightningResults.Normals
+* DaylightningResults.Parse
+* DaylightningResults.Points
+* DaylightningResults.Resolution
+* DaylightningResults.ToImage
+* DaylightningResults.XResolution
+* DaylightningResults.YResolution
+* DayOfWeek.Friday
+* DayOfWeek.Monday
+* DayOfWeek.Saturday
+* DayOfWeek.Sunday
+* DayOfWeek.Thursday
+* DayOfWeek.Tuesday
+* DayOfWeek.Wednesday
+* Delaunay.ByParametersOnSurface
+* Delaunay.ByPoints
+* Directory Path
+* Directory.Contents
+* Directory.Copy
+* Directory.Delete
+* Directory.Exists
+* Directory.FromPath
+* Directory.Move
+* DirectShape.ByGeometry
+* DirectShape.ByMesh
+* Display.ByGeometryColor
+* Display.BySurfaceColors
+* DividedPath.ByCurveAndDivisions (curve, divisions)
+* DividedPath.ByCurvesAndDivisions (curve, divisions)
+* DividedPath.Points
+* DividedPath.SpacingRuleLayout
+* DividedSurface.ByFaceAndUVDivisions (elementFace, uDivs, vDivs)
+* DividedSurface.ByFaceUVDivisionsAndRotation (surface, uDivs, vDivs, gridRotation)
+* DividedSurface.Rotation
+* DividedSurface.UDivisions
+* DividedSurface.VDivisions
+* Document.ActiveView
+* Document.Current
+* Document.FilePath
+* Document.IsFamilyDocument
+* Document.Location
+* DraftingView.ByName
+* Edge.AdjacentFaces
+* Edge.CurveGeometry
+* Edge.EndVertex
+* Edge.StartVertex
+* Element.BoundingBox
+* Element.Curves
+* Element.ElementCurveReferences
+* Element.ElementFaceReferences
+* Element.Faces
+* Element.Geometry
+* Element.GetParameterValueByName
+* Element.Id
+* Element.Name
+* Element.OverrideColorInView
+* Element.Parameters
+* Element.SetParameterByName
+* Element.Solids
+* Element.ToString
+* Element.UniqueID
+* Ellipse.ByCoordinateSystemRadii
+* Ellipse.ByOriginRadii
+* Ellipse.ByOriginVectors
+* Ellipse.ByPlaneRadii
+* Ellipse.CenterPoint
+* Ellipse.MajorAxis
+* Ellipse.MinorAxis
+* EllipseArc.ByPlaneRadiiStartAngleSweepAngle
+* EllipseArc.CenterPoint
+* EllipseArc.MajorAxis
+* EllipseArc.MinorAxis
+* EllipseArc.StartAngle
+* EllipseArc.SweepAngle
+* Equals
+* Evaluate.Function.Apply
+* Evaluate.Function.Compose
+* Excel.ReadFromFile
+* Excel.WriteToFile
+* Face.Edges
+* Face.SurfaceGeometry
+* Face.Vertices
+* FaceAnalysisDisplay.ByViewAndFaceAnalysisData
+* FaceAnalysisDisplay.ByViewFacePointsAndValues
+* Family.ByName
+* Family.Name
+* Family.Types (Family Types)
+* FamilyInstance.ByCoordinates
+* FamilyInstance.ByFamilyType
+* FamilyInstance.ByPoint
+* FamilyInstance.ByPointAndLevel
+* FamilyInstance.FacingOrientation
+* FamilyInstance.Location
+* FamilyInstance.SetRotation
+* FamilyInstance.Type
+* FamilyType.ByFamilyAndName
+* FamilyType.ByFamilyNameAndTypeName
+* FamilyType.ByName
+* FamilyType.Family
+* FamilyType.Name
+* File Path
+* File.Copy
+* File.Delete
+* File.Exists
+* File.FromPath
+* File.Move
+* File.ReadText (file)
+* File.WriteText
+* FilePath.ChangeExtension
+* FilePath.Combine
+* FilePath.DirectoryName
+* FilePath.Extension
+* FilePath.FileName
+* FilePath.HasExtension
+* Flatten
+* Floor.ByOutlineTypeAndLevel (outline, floorType, level)
+* Floor.ByOutlineTypeAndLevel (outlineCurves, floorType, level)
+* FloorPlanView.ByLevel
+* FloorType.ByName
+* FloorType.Name
 Form.ByLoftCrossSections (curves, IsSolid)
 Form.ByLoftCrossSections (nested curves, IsSolid)
 Formula
@@ -748,217 +750,217 @@ Selection.ElementTypes
 Selection.FamilyTypes
 Selection.FloorTypes
 Selection.GetFamilyParameter
-Selection.Levels
-Selection.SelectDivdedSurfaceFamilies
-Selection.SelectEdge
-Selection.SelectFace
-Selection.SelectFaces
-Selection.SelectModelElement
-Selection.SelectModelElements
-Selection.SelectPointOnFace
-Selection.SelectUVonFace
-Selection.StructuralColumnTypes
-Selection.StructuralFramingTypes
-Selection.Views
-Selection.WallTypes
-Sequence
-SetDifference
-SetIntersection
-SetUnion
-Sheet.ByNameNumberTitleBlockAndView
-Sheet.ByNameNumberTitleBlockAndViews
-Sheet.SheetName
-Sheet.SheetNumber
-Sheet.Views
-SiteLocation
-SkecthPlane.ByCoordinates
-SkecthPlane.ByPlane
-SkecthPlane.ElementPlaneReference
-SkecthPlane.Plane
-SkyModel.ByTypeConstants
-Solid.Area
-Solid.ByJoinedSurfaces
-Solid.ByLoft (crossSections)
-Solid.ByLoft (crossSections, guideCurve)
-Solid.ByLoft (crossSections, guideCurves)
-Solid.ByRevolve
-Solid.BySweep
-Solid.BySweep2Rails
-Solid.ByUnion
-Solid.Centroid
-Solid.Chamfer
-Solid.Difference
-Solid.DifferenceAll
-Solid.Fillet
-Solid.ProjectInputOnto
-Solid.ThinShell
-Solid.Union
-Solid.UnionAll
-Solid.Volume
-SortByFunction
-SortIndexByValue
-SortIndexByValue
-Sphere.ByBestFit
-Sphere.ByCenterPointsRadius
-Sphere.ByFourPoints
-Sphere.CenterPoint
-Sphere.Radius
-String
-String.Center
-String.ChangeCase
-String.Concat
-String.Contains
-String.CountOccurrences
-String.EndsWith
-String.IndexOf
-String.Insert
-String.Join
-String.LastIndexOf
-String.Length
-String.PadLeft
-String.PadRight
-String.Remove
-String.Replace
-String.Split
-String.StartsWith
-String.String from Array
-String.String from Object
-String.Substring
-String.ToLower
-String.ToNumber
-String.ToUpper
-String.TrimLeadingWhitespace
-String.TrimTrailingWhitespace
-String.TrimWhitespace
-Strings.Web Request
-StructuralFraming.BeamByCurve
-StructuralFraming.BraceByCurve
-StructuralFraming.ColumnByCurve
-StructuralFraming.Location
-StructuralFraming.Type
-StructuralPlanView.ByLevel
-StructuralType.Beam
-StructuralType.Brace
-StructuralType.Column
-StructuralType.Footing
-StructuralType.NonStructural
-SunSettings.Altitude
-SunSettings.Azimuth
-SunSettings.CurrentDateTime
-SunSettings.EndDateTime
-SunSettings.StartDateTime
-SunSettings.SunDirection
-Surface.ApproximateWithTolerance
-Surface.Area
-Surface.ByLoft (crossSections)
-Surface.ByLoft (crossSections, guideCurve)
-Surface.ByLoft (crossSections, guideCurves)
-Surface.ByPatch
-Surface.ByPerimeterPoints
-Surface.ByRevolve
-Surface.ByRuledLoft
-Surface.BySweep
-Surface.BySweep2Rails
-Surface.Closed
-Surface.ClosedInU
-Surface.ClosedInV
-Surface.CoordinateSystemAtParameter
-Surface.CurvatureAtParameter
-Surface.DerivativesAtParameter
-Surface.FlipNormalDirection
-Surface.GaussianCurvatureAtParameter
-Surface.GetIsoline
-Surface.Join (otherSurface)
-Surface.Join (otherSurfaces)
-Surface.NormalAtParameter
-Surface.NormalAtPoint
-Surface.Offset
-Surface.Perimeter
-Surface.PerimeterCurves
-Surface.PointAtParameter
-Surface.PrincipalCurvaturesAtParameter
-Surface.PrincipalDirectionsAtParameter
-Surface.ProjectInputOnto
-Surface.SubtractFrom
-Surface.TangentAtUParameter
-Surface.TangentAtVParameter
-Surface.Thicken (thickness)
-Surface.Thicken (thickness, both_sides)
-Surface.ToNurbSurface
-Surface.TrimWithEdgeLoops
-Surface.UVParameterAtPoint
-Thread.Pause
-TimeSpan.Add
-TimeSpan.ByDateDifference
-TimeSpan.Components
-TimeSpan.Create
-TimeSpan.FromString
-TimeSpan.MaxValue
-TimeSpan.MinValue
-TimeSpan.Negate
-TimeSpan.Scale
-TimeSpan.Subtract
-TimeSpan.TotalDays
-TimeSpan.TotalHours
-TimeSpan.TotalMilliseconds
-TimeSpan.TotalMinutes
-TimeSpan.TotalSeconds
-TimeSpan.Zero
-Topography.ByPoints
-Topography.Mesh
-Topography.Points
-Topology.Edges
-Topology.Faces
-Topology.Vertices
-Transaction.End
-Transaction.Start
-TrueForAll
-TrueForAny
-Unit Types
-UV.ByCoordinates
-UV.U
-UV.V
-Vector.Add
-Vector.AngleBetween (otherVector)
-Vector.AngleBetween (otherVector, rotationAxis)
-Vector.AsPoint
+* Selection.Levels
+* Selection.SelectDivdedSurfaceFamilies
+* Selection.SelectEdge
+* Selection.SelectFace
+* Selection.SelectFaces
+* Selection.SelectModelElement
+* Selection.SelectModelElements
+* Selection.SelectPointOnFace
+* Selection.SelectUVonFace
+* Selection.StructuralColumnTypes
+* Selection.StructuralFramingTypes
+* Selection.Views
+* Selection.WallTypes
+* Sequence
+* SetDifference
+* SetIntersection
+* SetUnion
+* Sheet.ByNameNumberTitleBlockAndView
+* Sheet.ByNameNumberTitleBlockAndViews
+* Sheet.SheetName
+* Sheet.SheetNumber
+* Sheet.Views
+* SiteLocation
+* SkecthPlane.ByCoordinates
+* SkecthPlane.ByPlane
+* SkecthPlane.ElementPlaneReference
+* SkecthPlane.Plane
+* SkyModel.ByTypeConstants
+* Solid.Area
+* Solid.ByJoinedSurfaces
+* Solid.ByLoft (crossSections)
+* Solid.ByLoft (crossSections, guideCurve)
+* Solid.ByLoft (crossSections, guideCurves)
+* Solid.ByRevolve
+* Solid.BySweep
+* Solid.BySweep2Rails
+* Solid.ByUnion
+* Solid.Centroid
+* Solid.Chamfer
+* Solid.Difference
+* Solid.DifferenceAll
+* Solid.Fillet
+* Solid.ProjectInputOnto
+* Solid.ThinShell
+* Solid.Union
+* Solid.UnionAll
+* Solid.Volume
+* SortByFunction
+* SortIndexByValue
+* SortIndexByValue
+* Sphere.ByBestFit
+* Sphere.ByCenterPointsRadius
+* Sphere.ByFourPoints
+* Sphere.CenterPoint
+* Sphere.Radius
+* String
+* String.Center
+* String.ChangeCase
+* String.Concat
+* String.Contains
+* String.CountOccurrences
+* String.EndsWith
+* String.IndexOf
+* String.Insert
+* String.Join
+* String.LastIndexOf
+* String.Length
+* String.PadLeft
+* String.PadRight
+* String.Remove
+* String.Replace
+* String.Split
+* String.StartsWith
+* String.String from Array
+* String.String from Object
+* String.Substring
+* String.ToLower
+* String.ToNumber
+* String.ToUpper
+* String.TrimLeadingWhitespace
+* String.TrimTrailingWhitespace
+* String.TrimWhitespace
+* Strings.Web Request
+* StructuralFraming.BeamByCurve
+* StructuralFraming.BraceByCurve
+* StructuralFraming.ColumnByCurve
+* StructuralFraming.Location
+* StructuralFraming.Type
+* StructuralPlanView.ByLevel
+* StructuralType.Beam
+* StructuralType.Brace
+* StructuralType.Column
+* StructuralType.Footing
+* StructuralType.NonStructural
+* SunSettings.Altitude
+* SunSettings.Azimuth
+* SunSettings.CurrentDateTime
+* SunSettings.EndDateTime
+* SunSettings.StartDateTime
+* SunSettings.SunDirection
+* Surface.ApproximateWithTolerance
+* Surface.Area
+* Surface.ByLoft (crossSections)
+* Surface.ByLoft (crossSections, guideCurve)
+* Surface.ByLoft (crossSections, guideCurves)
+* Surface.ByPatch
+* Surface.ByPerimeterPoints
+* Surface.ByRevolve
+* Surface.ByRuledLoft
+* Surface.BySweep
+* Surface.BySweep2Rails
+* Surface.Closed
+* Surface.ClosedInU
+* Surface.ClosedInV
+* Surface.CoordinateSystemAtParameter
+* Surface.CurvatureAtParameter
+* Surface.DerivativesAtParameter
+* Surface.FlipNormalDirection
+* Surface.GaussianCurvatureAtParameter
+* Surface.GetIsoline
+* Surface.Join (otherSurface)
+* Surface.Join (otherSurfaces)
+* Surface.NormalAtParameter
+* Surface.NormalAtPoint
+* Surface.Offset
+* Surface.Perimeter
+* Surface.PerimeterCurves
+* Surface.PointAtParameter
+* Surface.PrincipalCurvaturesAtParameter
+* Surface.PrincipalDirectionsAtParameter
+* Surface.ProjectInputOnto
+* Surface.SubtractFrom
+* Surface.TangentAtUParameter
+* Surface.TangentAtVParameter
+* Surface.Thicken (thickness)
+* Surface.Thicken (thickness, both_sides)
+* Surface.ToNurbSurface
+* Surface.TrimWithEdgeLoops
+* Surface.UVParameterAtPoint
+* Thread.Pause
+* TimeSpan.Add
+* TimeSpan.ByDateDifference
+* TimeSpan.Components
+* TimeSpan.Create
+* TimeSpan.FromString
+* TimeSpan.MaxValue
+* TimeSpan.MinValue
+* TimeSpan.Negate
+* TimeSpan.Scale
+* TimeSpan.Subtract
+* TimeSpan.TotalDays
+* TimeSpan.TotalHours
+* TimeSpan.TotalMilliseconds
+* TimeSpan.TotalMinutes
+* TimeSpan.TotalSeconds
+* TimeSpan.Zero
+* Topography.ByPoints
+* Topography.Mesh
+* Topography.Points
+* Topology.Edges
+* Topology.Faces
+* Topology.Vertices
+* Transaction.End
+* Transaction.Start
+* TrueForAll
+* TrueForAny
+* Unit Types
+* UV.ByCoordinates
+* UV.U
+* UV.V
+* Vector.Add
+* Vector.AngleBetween (otherVector)
+* Vector.AngleBetween (otherVector, rotationAxis)
+* Vector.AsPoint
 * Vector.ByCoordiantes (x, y, z)
-Vector.ByCoordinates (x, y, z, normalized)
-Vector.ByTwoPoints
-Vector.Cross
-Vector.Dot
-Vector.IsAlmostEqualTo
-Vector.IsParallel
-Vector.Length
-Vector.Normalized
-Vector.Reverse
-Vector.Rotate (axis, degrees)
-Vector.Rotate (origin, degrees)
-Vector.Scale (scale_factor)
-Vector.Scale (xScaleFactor, yScaleFactor, zScaleFactor)
-Vector.Subtract
-Vector.Transform
-Vector.X
-Vector.xAxis
-Vector.Y
-Vector.yAxis
-Vector.Z
-Vector.zAxis
-VectorAnalysis Display.ByViewAndVectorAnalysisData
-VectorAnalysis Display.ByViewPointsAndVectorValues
-Vertex.AdjacentEdges
-Vertex.AdjacentFaces
-Vertex.PointGeometry
-View.AllElementsInActiveView
-View.ExportAsImage
-View.SunSettings.Current
-View3D.CreateUniqueViewName
-Voronoi.ByParametersOnSurface
-Wall.ByCurveAndHeight
-Wall.ByCurveAndLevels
-WallType.ByName
-WallType.Name
-Watch
-Watch 3D
-Watch Image
-Xor
+* Vector.ByCoordinates (x, y, z, normalized)
+* Vector.ByTwoPoints
+* Vector.Cross
+* Vector.Dot
+* Vector.IsAlmostEqualTo
+* Vector.IsParallel
+* Vector.Length
+* Vector.Normalized
+* Vector.Reverse
+* Vector.Rotate (axis, degrees)
+* Vector.Rotate (origin, degrees)
+* Vector.Scale (scale_factor)
+* Vector.Scale (xScaleFactor, yScaleFactor, zScaleFactor)
+* Vector.Subtract
+* Vector.Transform
+* Vector.X
+* Vector.xAxis
+* Vector.Y
+* Vector.yAxis
+* Vector.Z
+* Vector.zAxis
+* VectorAnalysis Display.ByViewAndVectorAnalysisData
+* VectorAnalysis Display.ByViewPointsAndVectorValues
+* Vertex.AdjacentEdges
+* Vertex.AdjacentFaces
+* Vertex.PointGeometry
+* View.AllElementsInActiveView
+* View.ExportAsImage
+* View.SunSettings.Current
+* View3D.CreateUniqueViewName
+* Voronoi.ByParametersOnSurface
+* Wall.ByCurveAndHeight
+* Wall.ByCurveAndLevels
+* WallType.ByName
+* WallType.Name
+* Watch
+* Watch 3D
+* Watch Image
+* Xor
