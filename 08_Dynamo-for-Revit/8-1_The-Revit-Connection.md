@@ -1,36 +1,46 @@
-## The Revit Connection
+## Revit的关系
 ![Connection](images/8-1/link.png)
-Dynamo for Revit extends building information modeling with the data and logic environment of a graphical algorithm editor.  Its flexibility, coupled with a robust Revit database, offers a new perspective for BIM.
 
-This chapter focuses on the Dynamo workflows for BIM. Sections are primarily exercise-based, since jumping right into a project is the best way to get familiar with a graphical algorithm editor for BIM.  But first, let's talk about the beginnings of the program.
+Dynamo,待Revit使用Revit的大厦,型号(BIM)查询功能,数据和逻辑Dynamo的基于视觉算法根据编辑环境可以扩张。Dynamo的灵活性Revit的健全的数据库功能和结合,BIM的新的可能性。
 
-####History of Dynamo
+在这一章里,使用了Dynamo BIM流程说明。该章的各章节中,演习,并确认BIM。BIM的视觉算法编辑功能的机制的理解是,样品的项目中实际操作的最佳方法。不过在这之前,Dynamo的历史,简单的解释。
+
+####Dynamo的历史
 ![History](images/8-1/earlyScreenshot.png)
-> With a dedicated team of developers and a passionate community, the project has come a long way from its humble beginnings.
+> Dynamo项目,开发小组和社区的积极支持而发展到这里了,最初的目标是小了。
 
-Dynamo was originally created to streamline AEC workflows in Revit.  While Revit creates a robust database for every project, it can be difficult for an average user to access this information outside of the constraints of the interface.  Revit hosts a comprehensive API (Application Program Interface), allowing third-party developers to create custom tools.  And programmers have been using this API for years, but text-based scripting isn't accessible to everyone. Dynamo seeks to democratize Revit data through an approachable graphical algorithm editor.
+Dynamo,本来Revit的设计流程合理化被开发了。Revit在每一个数据库项目的制作,用户界面的制约,不接受这个信息,一般用户来说很难。 Revit是概括性的API(应用程序接口),因此被第三方开发人员使用这些API,基因学的工具可以制作。如果程序员已经习惯这个API,用户编程的经验来说,文本为基础的脚本,叙述的是简单的事。Dynamo的开发团队,易懂的视觉算法编辑器提供的数据,Revit可以轻易操作的目标。
 
-Using the core Dynamo nodes in tandem with custom Revit ones, a user can substantially expand parametric workflows for interoperability, documentation, analysis, and generation. With Dynamo, tedious workflows can be automated while design explorations can thrive.
+Revit的基因学和Dynamo的主要节点组合起来使用,相互运用性,设计制作、图书等方面解析,生成模型,参数控制的作业流程的范围大大拓展。如果使用Dynamo,麻烦的作业流程作业的自动化,设计工作可以集中。
 
 
-### Running Dynamo in Revit
+###在Revit运行Dynamo
 ![Connection](images/8-1/01.png)
 >1. In a Revit projector family editor, navigate to Addins and click *Dynamo*. Take note: Dynamo will run only in the file in which it was opened.
+
+> 1. Revit项目的家庭编辑器中,[插件]tab开始[* Dynamo *点击。在Dynamo Dynamo起动的文件内,只实行请注意。
+
 
 ![Connection](images/8-1/00.png)
 >1. When openinig Dynamo in Revit, there is a new category called *"Revit"*.  This is a comprehensive addition to the UI which offers nodes specifically catering to Revit workflows.*
 
-**Note - By using the Revit-specific family of nodes, the Dynamo graph will only  work when opening in Dynamo for Revit.  If a Dynamo for Revit graph is opened in Dynamo Sandbox for example, the Revit nodes will be missing.*
 
-### Freezing Nodes
-Since Revit is a platform which provides robust project management, parametric operations in Dynamo can be complex and slow to calculate. If Dynamo is taking a long time to calculate nodes, you may want to use the "freeze" node functionality in order to pause the execution of Revit operations while you develop your graph. For more information on freezing nodes, check out the "Freezing" section in the [solids chapter](../05_Geometry-for-Computational-Design/5-6_solids.md#freezing).
 
-### Community
-Since Dynamo was originally created for AEC, its large and growing community is a great resource for learning from and connecting with experts in the industry.  Dynamo’s community is made of architects, engineers, programmers, and designers who all have a passion for sharing and making.
+> 1. 在起动Revit Dynamo,Dynamo的库内[* Revit *]的新范畴。这个新的类别,Revit流程专用的节点可以访问。
+
+
+
+**注 - Dynamo Revit固有的家庭用图表处理节点的情况下,使用图表是在正在运行Revit Dynamo打开时只正常动作。例如,在正在运行Revit Dynamo的图表,Dynamo Sandbox举行Revit节点被丢失.*
+
+### 冻结的节点
+Revit在健全的项目管理提供平台,因此Dynamo的参数根据情况操作变得复杂,计算速度下降。If Dynamo is taking a long time to calculate nodes, Dynamo的节点计算需要时间,则节点“死机”的功能,使用图表的开发中相关操作运行Revit可以停止。节点的死机问题,操作的详细[solids chapter](../05_Geometry-for-Computational-Design/5-6_solids.md#freezing)请参照。
+
+### 社区
+Dynamo,原本建筑设计人员和结构设计人员开发的工具。Dynamo的社区,是建设行业的专家和交流并可以学习场所,目前也在持续增长。Dynamo的社区的信息共享和开发项目,积极参加建筑设计,结构设计人员,根据程序员,设计师组成。
 
 Dynamo is an open-source project that is constantly evolving, and a lot of development is Revit-related.  If you're new to the game, get on the discussion forum and start [posting questions](http://dynamobim.org/forums/forum/dyn/)!  If you're a programmer and want to get involved in Dynamo's development, check out the [github page.](https://github.com/DynamoDS/Dynamo).  Also, a great resource for third-party libraries is the [Dynamo package manager](http://dynamopackages.com/). Many of these packages are made with AEC in mind, and we'll take a look at third-party packages for panelization in this chapter.
 
 ![Blog](images/8-1/blog.png)
-> Dynamo also maintains an active [blog](http://dynamobim.com/blog/).  Read up on recent posts to learn about the latest developments!
+> Dynamo开发团队,[Blog](http://dynamobim.com/blog/)频繁更新。最近的报道,最新的开发确认请获取信息。
 
 
