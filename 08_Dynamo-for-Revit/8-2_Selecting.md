@@ -1,18 +1,23 @@
-## Selecting
-Revit is a data-rich environment.  This gives us a range of selection abilities which expands far beyond "point-and-click".  We can query the Revit database and dynamically link Revit elements to Dynamo geometry while performing parametric operations.
+## 选择
+
+Revit在非常丰富的数据处理环境。因此,选择功能“point-and-click”我们在操作时，可以查询Revit数据库和动态链接及Revit元素。
 
 ![UI](images/8-2/selectionUI.png)
-> The Revit library in the UI offers a "Selection" category which enables multiple ways to select geometry.
+>  Revit的UI提供了多种方式“选择” geometry【几何体】
 
-To select Revit elements properly, it's important to have a full-understanding of the Revit element hierarchy. Want to select all the walls in a project? Select by category.  Want to select every Eames chair in your mid-century modern lobby? Select by family.  Before jumping into an exercise, let's do a quick review of the Revit hierarchy.
+Revit元素的选择【ID】,Revit的元素的阶层结构**理解**很重要。项目内的所有的Walls,选择类别单位选择。在练习之前,让我们做回顾Revit**层次结构**
 
-#### Revit Hierarchy
+
+#### Revit 结构层次
 ![UI](images/8-2/hierarchy.png)
 
 Remember the taxonomy from Biology? Kingdom, Phylum, Class, Order, Family, Genus, Species? Revit elements are categorized in a similar manner.  On a basic level, the Revit hierarchy can be broken down into Categories, Families, Types*, and Instances.  An instance is an individual model element (with a unique ID) while a category defines a generic group (like "walls" or "floors").  With the Revit database organized in this manner, we can select one element and choose all similar elements based on a specified level in the hierarchy.
 
+
+ 
+
 **Note - Types in Revit are defined differently from types in programming.  In Revit, a type refers to a branch of the hierarchy, rather than a "data type".*
-#### Database Navigation with Dynamo nodes
+#### 与Dynamo节点数据库导航
 The three images below breakdown the main categories for Revit element selection in Dynamo. These are great tools to use in combination, and we'll explore some of these in the following exercises.
 
 ![UI](images/8-2/pointandclick.png)
