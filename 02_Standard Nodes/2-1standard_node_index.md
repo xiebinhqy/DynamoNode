@@ -383,84 +383,84 @@
 * Geometry.DeserializeFromSAB
 * Geometry.DistanceTo
 * Geometry.DoesIntersect
-Geometry.Explode
-Geometry.ExportToSAT
-Geometry.ExportToSAT (filePath)
-Geometry.ExportToSAT (filePath, unitsMM)
-Geometry.ExportToSAT (geometry, filePath)
-Geometry.ExportToSAT (geometry, filePath, unitsMM)
-Geometry.ImportFromSAT (file)
-Geometry.ImportFromSAT (filePath)
-Geometry.Intersect
-Geometry.IntersectAll
-Geometry.IsAlmostEqualTo
-Geometry.Mirror
-Geometry.Rotate (basePlane, degrees)
-Geometry.Rotate (origin, axis, degrees)
-Geometry.Scale (amount)
-Geometry.Scale (basePoint, from, to)
-Geometry.Scale (plane, xAmount, yAmount, zAmount)
-Geometry.Scale (xAmount, yAmount, zAmount)
-Geometry.Scale1D
-Geometry.Scale2D
-Geometry.SerializeAsSAB ()
-Geometry.SerializeAsSAB (geometry)
-Geometry.Split
-Geometry.Transform (cs)
-Geometry.Transform (fromCoordinateSystem, contextCoordinateSystem)
-Geometry.Translate (direction)
-Geometry.Translate (direction, distance)
-Geometry.Translate (xTranslation, yTranslation, zTranslation)
-Geometry.Trim
-GetKeys
-GetValues
-Grid.ByArc
-Grid.ByLine
-Grid.ByStartPointEndPoint
-Grid.Curve
-Grid.ElementCurveReference
-GroupByFunction
-Helix.Angle
-Helix.AxisDirection
-Helix.AxisPoint
-Helix.ByAxis
-Helix.Pitch
-Helix.Radius
-If
-Illuminance.B
-Illuminance.ByRGB
-Illuminance.G
-Illuminance.R
-Illuminance.ToFootCandles
-Illuminance.ToSRGB
-Image.Dimensions
-Image.FromPixels (colors)
-Image.FromPixels (colors, width, height)
-Image.Pixels
-Image.ReadFromFile
-Image.WriteToFile
-ImportFromCSV
-ImportFromCSV +transpose
-ImportInstance.ByGeometries
-ImportInstance.ByGeometry
-ImportInstance.BySATFile
-ImportInstance.Path
-IndexGroup.A
-IndexGroup.B
-IndexGroup.ByIndices (a, b, c)
-IndexGroup.ByIndices (a, b, c, d)
-IndexGroup.C
-IndexGroup.Count
-IndexGroup.D
+* Geometry.Explode
+* Geometry.ExportToSAT
+* Geometry.ExportToSAT (filePath)
+* Geometry.ExportToSAT (filePath, unitsMM)
+* Geometry.ExportToSAT (geometry, filePath)
+* Geometry.ExportToSAT (geometry, filePath, unitsMM)
+* Geometry.ImportFromSAT (file)
+* Geometry.ImportFromSAT (filePath)
+* Geometry.Intersect
+* Geometry.IntersectAll
+* Geometry.IsAlmostEqualTo
+* Geometry.Mirror
+* Geometry.Rotate (basePlane, degrees)
+* Geometry.Rotate (origin, axis, degrees)
+* Geometry.Scale (amount)
+* Geometry.Scale (basePoint, from, to)
+* Geometry.Scale (plane, xAmount, yAmount, zAmount)
+* Geometry.Scale (xAmount, yAmount, zAmount)
+* Geometry.Scale1D
+* Geometry.Scale2D
+* Geometry.SerializeAsSAB ()
+* Geometry.SerializeAsSAB (geometry)
+* Geometry.Split
+* Geometry.Transform (cs)
+* Geometry.Transform (fromCoordinateSystem, contextCoordinateSystem)
+* Geometry.Translate (direction)
+* Geometry.Translate (direction, distance)
+* Geometry.Translate (xTranslation, yTranslation, zTranslation)
+* Geometry.Trim
+* GetKeys
+* GetValues
+* Grid.ByArc
+* Grid.ByLine
+* Grid.ByStartPointEndPoint
+* Grid.Curve
+* Grid.ElementCurveReference
+* GroupByFunction
+* Helix.Angle
+* Helix.AxisDirection
+* Helix.AxisPoint
+* Helix.ByAxis
+* Helix.Pitch
+* Helix.Radius
+* If
+* Illuminance.B
+* Illuminance.ByRGB
+* Illuminance.G
+* Illuminance.R
+* Illuminance.ToFootCandles
+* Illuminance.ToSRGB
+* Image.Dimensions
+* Image.FromPixels (colors)
+* Image.FromPixels (colors, width, height)
+* Image.Pixels
+* Image.ReadFromFile
+* Image.WriteToFile
+* ImportFromCSV
+* ImportFromCSV +transpose
+* ImportInstance.ByGeometries
+* ImportInstance.ByGeometry
+* ImportInstance.BySATFile
+* ImportInstance.Path
+* IndexGroup.A
+* IndexGroup.B
+* IndexGroup.ByIndices (a, b, c)
+* IndexGroup.ByIndices (a, b, c, d)
+* IndexGroup.C
+* IndexGroup.Count
+* IndexGroup.D
 IndexOf
-Insert
-Insert
-Integer Slider
-IsHomogeneous
-IsRectangular
-IsUnivormDepth
-Label.ByPointAndString
-Level.ByElevation
+* Insert
+* Insert
+* Integer Slider
+* IsHomogeneous
+* IsRectangular
+* IsUnivormDepth
+* Label.ByPointAndString
+* Level.ByElevation
 Level.ByElevationAndName
 Level.ByLevelAndOffset
 Level.ByLevelOffsetAndName
@@ -470,8 +470,8 @@ Level.ProjectElevation
 Line.ByBestFitThroughPoints
 Line.ByStartPointDirectionLength
 Line.ByStartPointEndPoint
-Line.ByTangency
-Line.Direction
+* Line.ByTangency
+* Line.Direction
 List.AddItemToEnd
 List.AddItemToFront
 List.AllIndicesOf
@@ -529,20 +529,20 @@ Location.Latitude
 Location.Longitude
 Location.Name
 LoopWhile
-Map
-MapTo
-Material.ByName
-Math.Abs (integer)
-Math.Abs (number)
-Math.Acos
-Math.Asin
-Math.Atan
-Math.Atan2
-Math.Average
-Math.Ceiling
-Math.Cos
-Math.Cosh
-Math.DegreesToRadians
+* Map
+* MapTo
+* Material.ByName
+* Math.Abs (integer)
+* Math.Abs (number)
+* Math.Acos
+* Math.Asin
+* Math.Atan
+* Math.Atan2
+* Math.Average
+* Math.Ceiling
+* Math.Cos
+* Math.Cosh
+* Math.DegreesToRadians
 Math.DivRem
 Math.E
 Math.Exp
@@ -706,50 +706,50 @@ PolySurface.SurfaceCount
 PolySurface.Surfaces
 PolySurface.UnconnectedBoundaries
 PolySurface.VertexCount
-Python Script
-Python Script From String
-Range
-Rank
-RayBounce.ByOriginDirection
-Rectangle.ByCornerPoints (p1, p2, p3, p4)
-Rectangle.ByCornerPoints (points)
-Rectangle.ByWidthLength (cs, width, length)
-Rectangle.ByWidthLength (plane, width, length)
-Rectangle.ByWidthLength (width, length)
-Rectangle.Height
-Rectangle.Width
-ReferencePlane.ByLine
-ReferencePlane.ByStartPointEndPoint
-ReferencePlane.ElementPlaneReference
-ReferencePlane.Plane
-ReferencePoint.ByLengthOnCurveReference
-ReferencePoint.ByParameterOnCurveReference
-ReferencePoint.ByParameterOnFaceReference
-ReferencePoint.ByPoint
-ReferencePoint.ByPointVectorDistance
-ReferencePoint.Point
-ReferencePoint.X
-ReferencePoint.XYPlane
-ReferencePoint.XZPlane
-ReferencePoint.Y
-ReferencePoint.YZPlane
-ReferencePoint.Z
-RemoveIfNot
-RemoveKey
-RenderingEnvironment.BySkyModelLocationDate
-Reorder
-ScopeIf
-SectionView.ByBoundingBox
-SectionView.ByCoordinateSystemMinPointMaxPoint
-Selection.AllElementsAtLevel
-Selection.AllElementsOfCategory
-Selection.AllElementsOfFamilyType
-Selection.AllElementsOfType
-Selection.Categories
-Selection.ElementTypes
-Selection.FamilyTypes
-Selection.FloorTypes
-Selection.GetFamilyParameter
+* Python Script
+* Python Script From String
+* Range
+* Rank
+* RayBounce.ByOriginDirection
+* Rectangle.ByCornerPoints (p1, p2, p3, p4)
+* Rectangle.ByCornerPoints (points)
+* Rectangle.ByWidthLength (cs, width, length)
+* Rectangle.ByWidthLength (plane, width, length)
+* Rectangle.ByWidthLength (width, length)
+* Rectangle.Height
+* Rectangle.Width
+* ReferencePlane.ByLine
+* ReferencePlane.ByStartPointEndPoint
+* ReferencePlane.ElementPlaneReference
+* ReferencePlane.Plane
+* ReferencePoint.ByLengthOnCurveReference
+* ReferencePoint.ByParameterOnCurveReference
+* ReferencePoint.ByParameterOnFaceReference
+* ReferencePoint.ByPoint
+* ReferencePoint.ByPointVectorDistance
+* ReferencePoint.Point
+* ReferencePoint.X
+* ReferencePoint.XYPlane
+* ReferencePoint.XZPlane
+* ReferencePoint.Y
+* ReferencePoint.YZPlane
+* ReferencePoint.Z
+* RemoveIfNot
+* RemoveKey
+* RenderingEnvironment.BySkyModelLocationDate
+* Reorder
+* ScopeIf
+* SectionView.ByBoundingBox
+* SectionView.ByCoordinateSystemMinPointMaxPoint
+* Selection.AllElementsAtLevel
+* Selection.AllElementsOfCategory
+* Selection.AllElementsOfFamilyType
+* Selection.AllElementsOfType
+* Selection.Categories
+* Selection.ElementTypes
+* Selection.FamilyTypes
+* Selection.FloorTypes
+* Selection.GetFamilyParameter
 * Selection.Levels
 * Selection.SelectDivdedSurfaceFamilies
 * Selection.SelectEdge
