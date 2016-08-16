@@ -452,7 +452,7 @@
 * IndexGroup.C
 * IndexGroup.Count
 * IndexGroup.D
-IndexOf
+* IndexOf
 * Insert
 * Insert
 * Integer Slider
@@ -461,40 +461,40 @@ IndexOf
 * IsUnivormDepth
 * Label.ByPointAndString
 * Level.ByElevation
-Level.ByElevationAndName
+* Level.ByElevationAndName
 Level.ByLevelAndOffset
 Level.ByLevelOffsetAndName
 Level.Elevation
-Level.Name
-Level.ProjectElevation
-Line.ByBestFitThroughPoints
-Line.ByStartPointDirectionLength
-Line.ByStartPointEndPoint
+* Level.Name
+* Level.ProjectElevation
+* Line.ByBestFitThroughPoints
+* Line.ByStartPointDirectionLength
+* Line.ByStartPointEndPoint
 * Line.ByTangency
 * Line.Direction
-List.AddItemToEnd
-List.AddItemToFront
-List.AllIndicesOf
-List.CartesianProduct
-List.Chop
-List.Clean
+* List.AddItemToEnd
+* List.AddItemToFront
+* List.AllIndicesOf
+* List.CartesianProduct
+* List.Chop
+* List.Clean
 List.Combinations
-List.Combine
-List.ContainsItem
-List.Count
+* List.Combine
+* List.ContainsItem
+* List.Count
 List.Create
 List.Cycle
 List.Deconstruct
 List.DiagonalLeft
-List.DiagonalRight
-List.DropEveryNthItem
-List.DropItems
-List.Empty
-List.Filter
-List.FilterByBoolMask
-List.FirstIndexOf
-List.FirstItem
-List.Flatten
+* List.DiagonalRight
+* List.DropEveryNthItem
+* List.DropItems
+* List.Empty
+* List.Filter
+* List.FilterByBoolMask
+* List.FirstIndexOf
+* List.FirstItem
+* List.Flatten
 List.GetItemAtIndex
 List.GroupByKey
 List.IsEmpty
