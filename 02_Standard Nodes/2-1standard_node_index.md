@@ -373,16 +373,16 @@
 * FloorPlanView.ByLevel
 * FloorType.ByName
 * FloorType.Name
-Form.ByLoftCrossSections (curves, IsSolid)
-Form.ByLoftCrossSections (nested curves, IsSolid)
-Formula
-Formula.Evaluate
-Geometry.BoundingBox
-Geometry.ClosestPointTo
-Geometry.ContextCoordinateSystem
-Geometry.DeserializeFromSAB
-Geometry.DistanceTo
-Geometry.DoesIntersect
+* Form.ByLoftCrossSections (curves, IsSolid)
+* Form.ByLoftCrossSections (nested curves, IsSolid)
+* Formula
+* Formula.Evaluate
+* Geometry.BoundingBox
+* Geometry.ClosestPointTo
+* Geometry.ContextCoordinateSystem
+* Geometry.DeserializeFromSAB
+* Geometry.DistanceTo
+* Geometry.DoesIntersect
 Geometry.Explode
 Geometry.ExportToSAT
 Geometry.ExportToSAT (filePath)
