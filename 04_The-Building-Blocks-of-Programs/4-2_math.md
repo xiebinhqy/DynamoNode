@@ -12,7 +12,7 @@ Dynamo的一套组件,这些组件使用代数函数和两个数字输入值,导
 | ![](../images/icons/div-Large.png) | Divide | / | var[]...[], var[]...[] | var[]...[] |
 
 ### 参数化公式
->Download the example file that accompanies this exercise (Right click and "Save Link As..."): [Building Blocks of Programs - Math.dyn](datasets/4-2/Building Blocks of Programs - Math.dyn). A full list of example files can be found in the Appendix.
+>此次演习中附属的样本,请下载文件(右单击[另存为])[Building Blocks of Programs - Math.dyn](datasets/4-2/Building Blocks of Programs - Math.dyn). 所有的样本文件的列表,请参照附录。
 
 在运算符中, the next logical step is to combine operators and variables to form a more complex relationship through **公式**. Let's make a Formula that can be controlled by input parameters, like sliders.
 
