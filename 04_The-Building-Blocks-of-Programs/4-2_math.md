@@ -1,20 +1,20 @@
-##Math
-If the simplest form of data is numbers, the easiest way to relate those numbers is through Mathematics. From simple operators like divide to trigonometric functions, to more complex formulas, Math is a great way to start exploring numeric relationships and patterns.
+##数学的方法
+数据的最简单的形式的数据,如果数据联系起来最简单的方法是利用数学方法。不会做除法运算的简单的三角函数等,孩子开始复杂的计算式,数学方法是数值的关系和模式进行的非常方便的方法。
 
-###Arithmetic Operators
-Operators are a set of components that use algebraic functions with two numeric input values, which result in one output value (addition, subtraction, multiplication, division, etc.). These can be found under Operators>Actions.
+###算术运算符
+Dynamo的一套组件,这些组件使用代数函数和两个数字输入值,导致一个输出值(+,-,X,/,等等)。这些在Dynamo中都可以找到。
 
-| Icon | Name | Syntax| Inputs | Outputs |
+| 图标 | 名称 |  语法  | 输入 | 输出 |
 | -- | -- | -- | -- | -- | -- |-- |
 | ![](../images/icons/add-Large.png) | Add | + | var[]...[], var[]...[] | var[]...[] |
 | ![](../images/icons/sub-Large.png) | Subtract | - | var[]...[], var[]...[] | var[]...[] |
 | ![](../images/icons/mul-Large.png) | Multiply | * | var[]...[], var[]...[] | var[]...[] |
 | ![](../images/icons/div-Large.png) | Divide | / | var[]...[], var[]...[] | var[]...[] |
 
-###Parametric Formula
+### 参数化公式
 >Download the example file that accompanies this exercise (Right click and "Save Link As..."): [Building Blocks of Programs - Math.dyn](datasets/4-2/Building Blocks of Programs - Math.dyn). A full list of example files can be found in the Appendix.
 
-From Operators, the next logical step is to combine operators and variables to form a more complex relationship through **Formulas**. Let's make a Formula that can be controlled by input parameters, like sliders.
+在运算符中, the next logical step is to combine operators and variables to form a more complex relationship through **公式**. Let's make a Formula that can be controlled by input parameters, like sliders.
 
 ![](images/4-2/4-2-5/01.png)
 >1. **Number Sequence:** define a number sequence based on three inputs: *start, amount* and *step*.  This sequence represents the 't' in the parametric equation, so we want to use a list that's large enough to define a spiral.
