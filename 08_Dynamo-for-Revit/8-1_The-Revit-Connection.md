@@ -16,15 +16,12 @@ Revit的基因学和Dynamo的主要节点组合起来使用,相互运用性,设�
 
 ###在Revit运行Dynamo
 ![Connection](images/8-1/01.png)
->1. In a Revit projector family editor, navigate to Addins and click *Dynamo*. Take note: Dynamo will run only in the file in which it was opened.
-
+>1. Revit编辑器,链接到外接程序,然后单击“Dynamo”。注意:Dynamo将只能打开运行的文件。
 > 1. Revit项目的家庭编辑器中,[插件]tab开始[* Dynamo *点击。在Dynamo Dynamo起动的文件内,只实行请注意。
 
 
 ![Connection](images/8-1/00.png)
->1. When openinig Dynamo in Revit, there is a new category called *"Revit"*.  This is a comprehensive addition to the UI which offers nodes specifically catering to Revit workflows.*
-
-
+>1. 在Revit中打开Dynamo时,有一个新的类别叫* *“Revit” 。这是一个综合的UI提供专门Revit工作节点。*
 > 1. 在起动Revit Dynamo,Dynamo的库内[* Revit *]的新范畴。这个新的类别,Revit流程专用的节点可以访问。
 
 
